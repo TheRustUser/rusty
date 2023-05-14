@@ -1,0 +1,2 @@
+# rusty
+Gentoo Ebuild Repository
